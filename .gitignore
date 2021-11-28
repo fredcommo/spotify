@@ -1,0 +1,6 @@
+# Files and patterns to ignore
+.credentials.json
+data/
+scripts/__pycache__/
+scripts/fastText/lid.176.bin
+
